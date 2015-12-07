@@ -32,7 +32,7 @@
       "allowedValues": [
         "West US",
         "East US 2"
-      ]
+      ],
       "metadata": {
         "description": "Restricts choices to where premium storage is located in the US."
       }
